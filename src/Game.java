@@ -1,5 +1,6 @@
 /**
  * Created by mengleisun on 1/17/16.
+ * 
  */
 public class Game {
     Player white;
